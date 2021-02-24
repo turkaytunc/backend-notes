@@ -1,0 +1,26 @@
+{
+  "name": "backend-notes",
+  "version": "1.0.0",
+  "description": "Study notes for backend development",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "link": "sh link.sh",
+    "commit": "sh commit.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/turkaytunc/backend-notes.git"
+  },
+  "keywords": [
+    "backend",
+    "notes",
+    "study"
+  ],
+  "author": "Türkay Tunç",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/turkaytunc/backend-notes/issues"
+  },
+  "homepage": "https://github.com/turkaytunc/backend-notes#readme"
+}
